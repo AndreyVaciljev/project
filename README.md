@@ -7,3 +7,5 @@
 
 ## Some new section here
 "Conflict section"
+
+## New conflict
