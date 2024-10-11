@@ -8,4 +8,4 @@
 ## Some new section here
 "Conflict section"
 
-## New conflict 1
+## No conflict
